@@ -25,9 +25,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadx2&show_icons=true&theme=radical" />
-</a>
+![Jaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadx&show_icons=true&theme=radical)
 
 [twitter]: https://twitter.com/thecatcodes
 [linkedin]: https://www.linkedin.com/in/jaimdelmar
