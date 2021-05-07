@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-![Jaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadx&show_icons=true&theme=radical)
+[<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=jadx2&show_icons=true&theme=radical" />][github]
 
 [twitter]: https://twitter.com/thecatcodes
 [linkedin]: https://www.linkedin.com/in/jaimdelmar
