@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-# Frontend web developer! A professional cook who found in coding a new way to create great flavors!
+# Front-end web developer! A professional cook who found in coding a new way to create great flavors!
 
 - 🔭 I’m currently working on the Microverse Full Stack developer curriculum
 - 🌱 I’m currently learning Javascript and React
